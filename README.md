@@ -1,10 +1,10 @@
-### Olá, sou Raphael
+### Olá, sou Rapha!
 
-Desenvolvedor veterano tanto de backend quanto de frontend.
+Desenvolvedora veterana tanto de backend quanto de frontend.
 
 Fique a vontade para ver minhas contribuições à comunidade, mas se quiser saber mais sobre meus projetos e trabalhos, veja no meu [Linkedin][linkedin]
 
-- 🔭 Estou atualmente como sócio e Senior Developer na melhor startup em tecnologia em infrações de trânsito, a [QAPCORP][qapcorp]!
+- 🔭 Estou atualmente como sócia e Senior Developer na melhor startup em tecnologia em infrações de trânsito, a [QAPCORP][qapcorp]!
 - 🌱 Estou aprendendo sempre de tudo e em busca de colaborar em novos projetos
 - 🥅 2021 Goals: Contribuir mais em projetos Open Source
 - ⚡ Também sou desenhista e já tive uma [revista em quadrinhos digital][conexaonanquim]!
